@@ -4,7 +4,7 @@
 #include <algorithm>
 
 using namespace std;
-
+// Will be solved more efficiently through the use of Disjoint Set
 // Function to find the minimum operations needed to convert an array to a palindrome
 int minOperationsToPalindrome(vector<int> &arr)
 {
